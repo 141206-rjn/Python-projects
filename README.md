@@ -1,1 +1,1 @@
-Revising python ,while developing some miniprojects alongside .
+Revising python ,while developing some miniprojects alongside .And rehearse the github commands
